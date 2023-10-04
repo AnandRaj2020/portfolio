@@ -25,7 +25,7 @@ const skills = () => {
                 <img src="app-design.png" alt="app" classNmae="skillBarImg"></img>
                 <div className="skillBarText">
                     <h2>App Design</h2>
-                    <p>anand</p>
+                    <p>anand raj</p>
                 </div>   
             </div>
         </div>
